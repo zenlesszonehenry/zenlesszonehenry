@@ -1,6 +1,6 @@
 - 👋 Oi, meu nome é Henrique
-- 👀 Sou estudante do ALura
-- 🌱 Estou aprendendo a usar o JavaScript e uso esse espaço para minha organização
+- 👀 Sou estudante do Alura
+- 🌱 Estou me desenvolvento na linguagem JavaScrip e uso esse espaço para minha organização
 - 💞️ Não estou colaborando com ninguém
 - 📫 None
 - 😄 Ele/dele
